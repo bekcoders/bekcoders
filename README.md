@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bekmirzo</h1>
 <h3 align="center">Frontend developer</h3>
+# [Portfolio](https://bekcoders.uz) | [Telegram](https://t.me/Kad1rof_B)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bekcoders&label=Profile%20views&color=0e75b6&style=flat" alt="bekcoders" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bekcoders" alt="bekcoders" /></a> </p>
 
 - 🌱 I’m currently learning **js,html,css,sass,bootstrab,react,**
 
