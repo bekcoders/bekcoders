@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bekmirzo</h1>
 <h3 align="center">Frontend developer</h3>
-# [Portfolio](https://bekcoders.uz) | [Telegram](https://t.me/Kad1rof_B)
-
-
-
-- 🌱 I’m currently learning **js,html,css,sass,bootstrab,react,**
+  <a href="https://becoders.uz"> Portfolio  </a> <a href="https://t.me/Kad1rof_B"> Telegram</a>  
+<p>  </p>
+ 
+🌱 I’m currently learning **js,html,css,sass,bootstrab,react,**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
